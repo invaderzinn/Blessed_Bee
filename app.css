@@ -132,6 +132,11 @@ img {
 
 }
 
+.copy{
+    font-size: 10px;
+    padding-top: 5%;
+}
+
 /* img {
     border-radius: 50%;
     max-height: 10rem;
